@@ -32,7 +32,7 @@ const Footer = () => {
               </li>
 
               <li>
-                <a  className="fs-5 text-decoration-none text-white " href="https://1.envato.market/VDXPJ">Buy Now</a>
+                <a  className="fs-5 text-decoration-none text-white " href="#">Buy Now</a>
               </li>
             </ul>
           </div>
@@ -60,7 +60,7 @@ const Footer = () => {
               </li>
 
               <li>
-                <a  className="fs-5 text-decoration-none text-white " href="https://1.envato.market/VDXPJ">Buy Now</a>
+                <a  className="fs-5 text-decoration-none text-white " href="#">Buy Now</a>
               </li>
             </ul>
           </div>
@@ -88,7 +88,7 @@ const Footer = () => {
               </li>
 
               <li>
-                <a  className="fs-5 text-decoration-none text-white " href="https://1.envato.market/VDXPJ">Buy Now</a>
+                <a  className="fs-5 text-decoration-none text-white " href="#">Buy Now</a>
               </li>
             </ul>
           </div>
@@ -100,7 +100,7 @@ const Footer = () => {
               </li>
 
               <li>
-                <a  className="fs-5 text-decoration-none text-white " href="/collections/all">Shop</a>
+                <a  className="fs-5 text-decoration-none text-white " href="/all">Shop</a>
               </li>
 
               <li>
@@ -116,7 +116,7 @@ const Footer = () => {
               </li>
 
               <li>
-                <a  className="fs-5 text-decoration-none text-white " href="https://1.envato.market/VDXPJ">Buy Now</a>
+                <a  className="fs-5 text-decoration-none text-white " href="#">Buy Now</a>
               </li>
             </ul>
           </div>

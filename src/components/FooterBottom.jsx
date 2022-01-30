@@ -9,7 +9,7 @@ const FooterBottom = () => {
               <div class="powered">
                 <p>
                   © 2022{" "}
-                  <a className="text-decoration-none text-dark" href="#">
+                  <a className=" text-decoration-none text-dark" href="#">
                     <span className="fw-bolder text-strong">Variety Shop</span>
                   </a>{" "}
                   All rights reserved.

@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light py-3 bg-white shadow-sm menu">
+      <nav className="navbar navbar-expand-lg navbar-light py-3 shadow-sm menu">
         <div className="container">
           <NavLink className="navbar-brand fw-bold fs-4" to="/">
             VARIETY STORE
