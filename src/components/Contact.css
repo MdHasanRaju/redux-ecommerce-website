@@ -20,7 +20,7 @@
   }
   
   .contact-links {
-    background-color: #1f2e43;
+    /* background-color: #1f2e43; */
     background:
       radial-gradient(
         circle at 55% 92%, #426691 0 12%, transparent 12.2%
@@ -85,7 +85,7 @@
     cursor: pointer;
   }
   
-  img {
+  .contact-img {
     filter: 
       hue-rotate(220deg)
       drop-shadow(2px 4px 4px #0006);

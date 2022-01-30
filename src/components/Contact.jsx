@@ -10,7 +10,7 @@ const Contact = () => {
           <div class="links">
             <div class="link">
               <a>
-                <img
+                <img className="contact-img"
                   src="https://i.postimg.cc/m2mg2Hjm/linkedin.png"
                   alt="linkedin"
                 />
@@ -18,7 +18,7 @@ const Contact = () => {
             </div>
             <div class="link">
               <a>
-                <img
+                <img className="contact-img"
                   src="https://i.postimg.cc/YCV2QBJg/github.png"
                   alt="github"
                 />
@@ -26,7 +26,7 @@ const Contact = () => {
             </div>
             <div class="link">
               <a>
-                <img
+                <img className="contact-img"
                   src="https://i.postimg.cc/W4Znvrry/codepen.png"
                   alt="codepen"
                 />
@@ -34,7 +34,7 @@ const Contact = () => {
             </div>
             <div class="link">
               <a>
-                <img
+                <img className="contact-img"
                   src="https://i.postimg.cc/NjLfyjPB/email.png"
                   alt="email"
                 />
